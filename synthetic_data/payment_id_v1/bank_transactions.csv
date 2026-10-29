@@ -1,0 +1,17 @@
+bank_transaction_id,posted_date,narrative,amount,bank_reference,payment_id,instruction_reference,scenario
+SBK-001,2026-06-03,NEFT Synthetic Supplier 001 SINV-001-A,-1037.0,UTR-20261028-001,PAY-2026-D71F8893122C8D172286,,exact_payment_id
+SBK-002,2026-06-04,NEFT Synthetic Supplier 002 SINV-002-A,-1074.0,UTR-20261028-002,,INST-20261028-002,instruction_reference
+SBK-003,2026-06-05,NEFT Synthetic Supplier 003 SINV-003-A BANKREF-X,-1111.0,UTR-20261028-003,,,bank_reference_different
+SBK-004,2026-06-06,NEFT Synthetic Supplier 004 SINV-004-A,-1148.0,UTR-20261028-004,,,missing_payment_id
+SBK-005,2026-06-07,NEFT Synthetic Supplier 005 SINV-005-A,-1185.0,UTR-20261028-005,PAY-2026-C20949774BD88B2D424D,,conflicting_reference
+SBK-006,2026-06-08,NEFT Synthetic Supplier 006 SINV-006-A,-1222.0,UTR-20261028-006,PAY-2026-C20949774BD88B2D424D,,duplicate_bank_transaction
+SBK-006-DUP,2026-06-08,NEFT Synthetic Supplier 006 SINV-006-A,-1222.0,UTR-20261028-006,PAY-2026-C20949774BD88B2D424D,,duplicate_bank_transaction
+SBK-007,2026-06-09,NEFT Synthetic Supplier 007 SINV-007-A,-629.5,UTR-20261028-007,,,partial_payment
+SBK-008,2026-06-10,NEFT Synthetic Supplier 008 SINV-008-A,-2592.0,UTR-20261028-008,,,grouped_payment
+SBK-009,2026-06-11,NEFT Synthetic Supplier 009 SINV-009-A,-1328.0,UTR-20261028-009,,,net_of_fee
+SBK-010,2026-06-24,NEFT Synthetic Supplier 010 SINV-010-A,-1370.0,UTR-20261028-010,,,delayed_posting
+SBK-011,2026-06-13,NEFT Synthetic Supplier,-1407.0,UTR-20261028-011,,,ambiguous_candidate
+SBK-012,2026-06-14,UNRELATED CASH DEPOSIT,-777.0,UTR-20261028-012,,,unmatched_bank
+SBK-014,2026-06-16,NEFT Synthetic Supplier 014 SINV-014-A,-1518.0,UTR-20261028-014,,,duplicate_submission
+SBK-015,2026-06-17,NEFT Synthetic Supplier 015 SINV-015-A,-1655.0,UTR-20261028-015,,INST-20261028-015,reference_conflicting_evidence
+SBK-016,2026-06-18,NEFT Synthetic Supplier 016 SINV-016-A,-333.0,UTR-20261028-016,PAY-2026-ACE693FC465019CE490F,,unrelated_payment_id

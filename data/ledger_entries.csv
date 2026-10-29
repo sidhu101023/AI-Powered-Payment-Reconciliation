@@ -1,0 +1,213 @@
+id,book,entry_date,reference,counterparty,amount,entered_by,entered_at
+1,main_current_account,2026-04-01,INV-20523,Harrow Supplies,127.10,clerk_b,2026-04-01 15:05:47
+2,main_current_account,2026-04-01,INV-20930,Lowther Supplies,580.72,clerk_b,2026-04-01 14:52:00
+3,main_current_account,2026-04-01,INV-21876,Kestrel Textiles,3723.11,clerk_b,2026-04-01 14:55:14
+4,main_current_account,2026-04-01,INV-20726,Corvid Supplies,125.97,clerk_a,2026-04-01 16:35:14
+5,main_current_account,2026-04-01,CHQ 002960,Kestrel Print,-739.08,clerk_a,2026-04-01 15:27:23
+6,main_current_account,2026-04-01,BILL-8996,Briar Supplies,-822.45,clerk_a,2026-04-01 09:18:56
+7,main_current_account,2026-04-01,BILL-8414,Sedge Joinery,-329.68,clerk_c,2026-04-01 14:41:00
+8,main_current_account,2026-04-01,BILL-8498,Marlow Packaging,-2589.94,clerk_a,2026-04-01 14:42:25
+9,main_current_account,2026-04-01,INV-21185,Thistle Print,3229.43,clerk_b,2026-04-01 14:22:39
+10,main_current_account,2026-04-02,INV-20677,Lowther Supplies,2122.66,clerk_b,2026-04-02 13:01:19
+11,main_current_account,2026-04-02,INV-21169,Corvid Supplies,742.63,clerk_a,2026-04-02 13:28:48
+12,main_current_account,2026-04-02,INV-21203,Corvid Supplies,2966.63,clerk_b,2026-04-02 15:46:06
+13,main_current_account,2026-04-02,INV-20773,Corvid Supplies,513.38,clerk_c,2026-04-02 10:55:26
+14,main_current_account,2026-04-02,INV-21632,Quarry Foods,4702.42,clerk_a,2026-04-02 16:16:25
+15,main_current_account,2026-04-02,BILL-9468,Corvid Freight,-2604.91,clerk_a,2026-04-02 15:37:58
+16,main_current_account,2026-04-02,CHQ 002955,Orchard Packaging,-660.97,clerk_a,2026-04-02 19:35:23
+17,main_current_account,2026-04-02,CHQ 002570,Dunmore Labs,-1597.70,clerk_a,2026-04-02 10:17:06
+18,main_current_account,2026-04-02,BILL-8424,Corvid Freight,-2653.41,clerk_c,2026-04-02 23:10:55
+19,main_current_account,2026-04-02,INV-20415,Corvid Supplies,1167.22,clerk_a,2026-04-02 11:50:55
+20,main_current_account,2026-04-02,INV-21816,Lowther Supplies,2374.19,clerk_a,2026-04-02 08:43:07
+21,main_current_account,2026-04-02,INV-21072,Lowther Textiles,3009.07,clerk_c,2026-04-02 09:47:53
+22,main_current_account,2026-04-02,INV-20559,Marlow Print,120.72,clerk_a,2026-04-02 13:10:52
+23,main_current_account,2026-04-03,INV-20496,Harrow Supplies,411.14,clerk_b,2026-04-03 08:20:05
+24,main_current_account,2026-04-03,INV-20690,Juniper Print,205.01,clerk_a,2026-04-03 14:17:15
+25,main_current_account,2026-04-03,INV-21717,Thistle Print,123.43,clerk_c,2026-04-03 10:26:40
+26,main_current_account,2026-04-03,INV-20691,Juniper Print,255.32,clerk_a,2026-04-03 09:07:48
+27,main_current_account,2026-04-03,BILL-7746,Juniper Freight,-285.37,clerk_a,2026-04-03 15:16:42
+28,main_current_account,2026-04-03,BILL-7957,Nettle Labs,-534.60,clerk_a,2026-04-03 10:53:29
+29,main_current_account,2026-04-03,BILL-9664,Juniper Catering,-115.05,clerk_a,2026-04-03 17:25:03
+30,main_current_account,2026-04-03,BILL-9091,Marlow Packaging,-82.64,clerk_a,2026-04-03 17:01:48
+31,main_current_account,2026-04-03,BILL-7667,Dunmore Labs,-3049.91,clerk_b,2026-04-03 14:54:07
+32,main_current_account,2026-04-03,INV-20503,Thistle Print,197.63,clerk_c,2026-04-03 14:27:46
+33,main_current_account,2026-04-03,INV-21875,Marlow Print,4237.70,clerk_a,2026-04-03 11:44:51
+34,main_current_account,2026-04-06,INV-21205,Harrow Supplies,893.02,clerk_a,2026-04-06 13:38:36
+35,main_current_account,2026-04-06,BILL-8309,Pellam Foods,-2400.29,clerk_c,2026-04-06 14:52:38
+36,main_current_account,2026-04-06,BILL-9712,Marlow Packaging,-534.36,clerk_b,2026-04-06 15:03:57
+37,main_current_account,2026-04-06,BILL-7688,Nettle Catering,-527.85,clerk_a,2026-04-06 09:37:02
+38,main_current_account,2026-04-06,BILL-8568,Briar Supplies,-204.39,clerk_b,2026-04-06 14:22:05
+39,main_current_account,2026-04-06,BILL-8535,Juniper Catering,-1703.36,clerk_c,2026-04-06 11:48:38
+40,main_current_account,2026-04-06,INV-20664,Harrow Supplies,3978.73,clerk_b,2026-04-06 14:16:51
+41,main_current_account,2026-04-07,INV-21659,Harrow Supplies,149.92,clerk_a,2026-04-07 15:40:27
+42,main_current_account,2026-04-07,INV-20709,Harrow Supplies,1149.63,clerk_a,2026-04-07 09:25:23
+43,main_current_account,2026-04-07,BILL-9544,Pellam Foods,-210.47,clerk_c,2026-04-07 15:40:12
+44,main_current_account,2026-04-07,BILL-9096,Nettle Labs,-739.49,clerk_a,2026-04-07 08:38:41
+45,main_current_account,2026-04-07,BILL-8747,Briar Supplies,-1229.05,clerk_a,2026-04-07 09:03:43
+46,main_current_account,2026-04-07,BILL-9594,Quarry Print,-1036.74,clerk_b,2026-04-07 10:09:20
+47,main_current_account,2026-04-07,BILL-7195,Marlow Packaging,-2635.21,clerk_a,2026-04-07 10:57:45
+48,main_current_account,2026-04-07,BILL-9862,Sedge Joinery,-1527.13,clerk_b,2026-04-07 14:48:10
+49,main_current_account,2026-04-07,BILL-7253,Nettle Catering,-526.62,clerk_c,2026-04-07 10:21:10
+50,main_current_account,2026-04-07,INV-21365,Juniper Print,4073.86,clerk_a,2026-04-07 08:41:38
+51,main_current_account,2026-04-07,INV-21338,Kestrel Textiles,2795.67,clerk_a,2026-04-07 12:45:11
+52,main_current_account,2026-04-07,INV-21564,Sedge Motors,3617.83,clerk_a,2026-04-07 09:34:23
+53,main_current_account,2026-04-08,INV-21158,Juniper Print,1725.27,clerk_a,2026-04-08 17:02:30
+54,main_current_account,2026-04-08,INV-20850,Kestrel Textiles,1584.82,clerk_a,2026-04-08 13:11:50
+55,main_current_account,2026-04-08,INV-21129,Marlow Print,268.90,clerk_c,2026-04-08 07:58:13
+56,main_current_account,2026-04-08,INV-20450,Harrow Supplies,1940.57,clerk_a,2026-04-08 14:59:44
+57,main_current_account,2026-04-08,BILL-8288,Dunmore Labs,-698.72,clerk_a,2026-04-08 11:59:37
+58,main_current_account,2026-04-08,BILL-7449,Sedge Joinery,-1017.43,clerk_a,2026-04-08 13:05:31
+59,main_current_account,2026-04-08,INV-20467,Thistle Catering,2061.97,clerk_b,2026-04-08 14:58:19
+60,main_current_account,2026-04-09,INV-20985,Marlow Print,4103.53,clerk_a,2026-04-09 10:02:06
+61,main_current_account,2026-04-09,INV-21594,Marlow Print,646.41,clerk_b,2026-04-09 11:41:05
+62,main_current_account,2026-04-09,INV-20894,Ivywood Print,2277.59,clerk_c,2026-04-09 15:29:12
+63,main_current_account,2026-04-09,INV-21074,Juniper Print,2979.99,clerk_b,2026-04-09 14:01:01
+64,main_current_account,2026-04-09,CHQ 002966,Marlow Packaging,-171.35,clerk_b,2026-04-09 17:01:19
+65,main_current_account,2026-04-09,CHQ 002660,Quarry Print,-414.66,clerk_a,2026-04-09 04:29:10
+66,main_current_account,2026-04-09,CHQ 002801,Dunmore Labs,-1418.98,clerk_a,2026-04-09 13:46:33
+67,main_current_account,2026-04-09,BILL-7583,Briar Supplies,-1025.53,clerk_a,2026-04-09 12:00:05
+68,main_current_account,2026-04-09,BILL-7961,Marlow Packaging,-3038.05,clerk_c,2026-04-09 09:43:52
+69,main_current_account,2026-04-09,INV-20661,Thistle Print,765.53,clerk_b,2026-04-09 16:54:31
+70,main_current_account,2026-04-09,INV-21171,Kestrel Supplies,765.53,clerk_a,2026-04-09 21:19:43
+71,main_current_account,2026-04-10,INV-21279,Harrow Supplies,269.33,clerk_c,2026-04-10 07:36:48
+72,main_current_account,2026-04-10,BILL-7019,Kestrel Print,-976.38,clerk_a,2026-04-10 13:35:02
+73,main_current_account,2026-04-10,CHQ 002743,Orchard Packaging,-2549.23,clerk_c,2026-04-10 09:24:54
+74,main_current_account,2026-04-10,BILL-7172,Nettle Labs,-2743.77,clerk_b,2026-04-10 11:33:31
+75,main_current_account,2026-04-13,INV-20919,Thistle Catering,1511.36,clerk_b,2026-04-13 14:27:05
+76,main_current_account,2026-04-13,INV-20740,Ivywood Print,120.01,clerk_c,2026-04-13 13:56:22
+77,main_current_account,2026-04-13,INV-20718,Thistle Catering,122.60,clerk_a,2026-04-13 08:14:50
+78,main_current_account,2026-04-13,INV-20524,Thistle Catering,161.38,clerk_a,2026-04-13 13:03:23
+79,main_current_account,2026-04-13,INV-20783,Sedge Motors,1782.86,clerk_b,2026-04-13 10:40:39
+80,main_current_account,2026-04-13,INV-20688,Lowther Supplies,3847.17,clerk_c,2026-04-13 07:28:49
+81,main_current_account,2026-04-13,INV-20573,Lowther Freight,1118.51,clerk_c,2026-04-13 11:42:54
+82,main_current_account,2026-04-13,BILL-9056,Dunmore Labs,-77.00,clerk_b,2026-04-13 14:44:25
+83,main_current_account,2026-04-13,BILL-7457,Ivywood Motors,-1238.55,clerk_b,2026-04-13 07:00:09
+84,main_current_account,2026-04-13,BILL-7853,Dunmore Labs,-1447.06,clerk_a,2026-04-13 10:37:29
+85,main_current_account,2026-04-13,BILL-7951,Kestrel Print,-97.90,clerk_c,2026-04-13 16:55:00
+86,main_current_account,2026-04-13,BILL-7315,Kestrel Print,-45.70,clerk_c,2026-04-13 02:49:06
+87,main_current_account,2026-04-13,BILL-8363,Pellam Foods,-357.53,clerk_a,2026-04-13 13:35:45
+88,main_current_account,2026-04-14,INV-21269,Lowther Supplies,1310.90,clerk_b,2026-04-14 12:51:59
+89,main_current_account,2026-04-14,INV-20704,Lowther Freight,1105.04,clerk_a,2026-04-14 14:36:22
+90,main_current_account,2026-04-14,INV-21184,Corvid Supplies,426.46,clerk_a,2026-04-14 09:39:13
+91,main_current_account,2026-04-14,INV-20694,Juniper Print,686.40,clerk_c,2026-04-14 09:58:01
+92,main_current_account,2026-04-14,BILL-8759,Sedge Joinery,-85.69,clerk_a,2026-04-14 17:18:23
+93,main_current_account,2026-04-14,CHQ 002536,Quarry Print,-283.88,clerk_a,2026-04-14 17:53:42
+94,main_current_account,2026-04-14,BILL-9880,Briar Supplies,-3115.11,clerk_a,2026-04-14 13:34:14
+95,main_current_account,2026-04-14,BILL-7594,Juniper Freight,-131.59,clerk_a,2026-04-14 11:59:26
+96,main_current_account,2026-04-15,INV-20905,Alder Print,1365.12,clerk_c,2026-04-15 11:07:05
+97,main_current_account,2026-04-15,INV-21386,Lowther Textiles,1811.23,clerk_a,2026-04-15 12:03:23
+98,main_current_account,2026-04-15,INV-20742,Corvid Supplies,987.64,clerk_a,2026-04-15 13:48:31
+99,main_current_account,2026-04-15,INV-20562,Corvid Supplies,3319.48,clerk_a,2026-04-15 17:49:55
+100,main_current_account,2026-04-15,INV-21631,Lowther Freight,898.14,clerk_b,2026-04-15 13:33:57
+101,main_current_account,2026-04-15,INV-21334,Kestrel Textiles,3758.65,clerk_a,2026-04-15 09:57:23
+102,main_current_account,2026-04-15,INV-20440,Thistle Catering,537.01,clerk_b,2026-04-15 10:45:18
+103,main_current_account,2026-04-15,BILL-8822,Briar Supplies,-127.51,clerk_c,2026-04-15 23:49:07
+104,main_current_account,2026-04-15,BILL-9513,Alder Labs,-62.99,clerk_a,2026-04-15 15:43:57
+105,main_current_account,2026-04-15,BILL-7937,Alder Labs,-2211.65,clerk_a,2026-04-15 12:20:50
+106,main_current_account,2026-04-15,BILL-7685,Sedge Joinery,-904.21,clerk_a,2026-04-15 14:14:11
+107,main_current_account,2026-04-15,INV-21122,Kestrel Textiles,3571.97,clerk_c,2026-04-15 15:44:12
+108,main_current_account,2026-04-16,INV-21329,Lowther Textiles,217.17,clerk_c,2026-04-16 15:12:17
+109,main_current_account,2026-04-16,INV-21438,Harrow Supplies,348.36,clerk_b,2026-04-16 11:26:01
+110,main_current_account,2026-04-16,INV-20532,Quarry Foods,3513.24,clerk_a,2026-04-16 15:25:09
+111,main_current_account,2026-04-16,INV-21063,Ivywood Print,1601.90,clerk_c,2026-04-16 13:10:37
+112,main_current_account,2026-04-16,BILL-9628,Ivywood Motors,-156.28,clerk_c,2026-04-16 09:24:19
+113,main_current_account,2026-04-16,BILL-7422,Briar Supplies,-262.99,clerk_a,2026-04-16 16:40:36
+114,main_current_account,2026-04-16,INV-21081,Harrow Supplies,828.65,clerk_c,2026-04-16 08:15:43
+115,main_current_account,2026-04-16,INV-20877,Lowther Supplies,828.65,clerk_c,2026-04-16 14:25:21
+116,main_current_account,2026-04-17,INV-20756,Ivywood Print,3865.03,clerk_c,2026-04-17 09:52:32
+117,main_current_account,2026-04-17,INV-21142,Lowther Supplies,3467.47,clerk_b,2026-04-17 15:39:14
+118,main_current_account,2026-04-17,INV-21345,Thistle Print,1743.63,clerk_b,2026-04-17 10:54:34
+119,main_current_account,2026-04-17,INV-20574,Kestrel Textiles,3016.40,clerk_a,2026-04-17 10:57:34
+120,main_current_account,2026-04-17,INV-21742,Lowther Textiles,121.95,clerk_c,2026-04-17 17:28:02
+121,main_current_account,2026-04-17,INV-20774,Harrow Supplies,714.26,clerk_c,2026-04-17 13:18:14
+122,main_current_account,2026-04-17,BILL-7007,Juniper Freight,-3086.83,clerk_a,2026-04-17 08:59:51
+123,main_current_account,2026-04-17,CHQ 002303,Marlow Packaging,-375.75,clerk_b,2026-04-17 10:07:06
+124,main_current_account,2026-04-17,CHQ 002578,Kestrel Print,-1692.57,clerk_b,2026-04-17 09:47:14
+125,main_current_account,2026-04-17,CHQ 002861,Corvid Freight,-160.84,clerk_c,2026-04-17 13:34:59
+126,main_current_account,2026-04-17,CHQ 002819,Ivywood Motors,-926.20,clerk_b,2026-04-17 13:13:21
+127,main_current_account,2026-04-17,BILL-9179,Nettle Catering,-341.15,clerk_b,2026-04-17 14:26:22
+128,main_current_account,2026-04-20,INV-20479,Thistle Print,1137.79,clerk_a,2026-04-20 12:41:57
+129,main_current_account,2026-04-20,INV-20438,Lowther Textiles,1195.32,clerk_c,2026-04-20 09:51:27
+130,main_current_account,2026-04-20,INV-21498,Juniper Print,1360.93,clerk_a,2026-04-20 10:00:28
+131,main_current_account,2026-04-20,INV-20898,Thistle Print,158.93,clerk_a,2026-04-20 10:17:51
+132,main_current_account,2026-04-20,INV-21661,Lowther Textiles,127.56,clerk_c,2026-04-20 15:52:14
+133,main_current_account,2026-04-20,BILL-9623,Quarry Print,-1725.16,clerk_a,2026-04-20 16:05:58
+134,main_current_account,2026-04-20,BILL-8318,Juniper Catering,-1104.35,clerk_a,2026-04-20 13:36:15
+135,main_current_account,2026-04-20,BILL-7986,Quarry Print,-267.54,clerk_a,2026-04-20 11:07:43
+136,main_current_account,2026-04-20,CHQ 002338,Dunmore Labs,-169.59,clerk_b,2026-04-20 13:38:23
+137,main_current_account,2026-04-20,BILL-7900,Juniper Catering,-2344.24,clerk_b,2026-04-20 08:31:31
+138,main_current_account,2026-04-20,INV-21236,Harrow Supplies,551.12,clerk_a,2026-04-20 19:12:12
+139,main_current_account,2026-04-20,INV-20948,Thistle Print,551.12,clerk_b,2026-04-20 16:33:44
+140,main_current_account,2026-04-21,INV-21406,Kestrel Textiles,151.57,clerk_b,2026-04-21 16:52:55
+141,main_current_account,2026-04-21,INV-21116,Kestrel Supplies,4255.23,clerk_a,2026-04-21 10:51:30
+142,main_current_account,2026-04-21,INV-21591,Thistle Catering,342.02,clerk_b,2026-04-21 07:57:17
+143,main_current_account,2026-04-21,INV-20423,Sedge Motors,2328.80,clerk_b,2026-04-21 14:10:41
+144,main_current_account,2026-04-21,INV-20790,Lowther Supplies,3376.83,clerk_a,2026-04-21 12:13:42
+145,main_current_account,2026-04-21,INV-21371,Marlow Print,3812.49,clerk_b,2026-04-21 14:13:26
+146,main_current_account,2026-04-21,BILL-7287,Quarry Print,-71.39,clerk_a,2026-04-21 11:26:57
+147,main_current_account,2026-04-21,BILL-9019,Sedge Joinery,-1278.01,clerk_c,2026-04-21 13:48:18
+148,main_current_account,2026-04-21,CHQ 002583,Sedge Joinery,-2344.39,clerk_a,2026-04-21 10:44:00
+149,main_current_account,2026-04-21,BILL-7962,Briar Supplies,-1225.33,clerk_a,2026-04-21 10:33:23
+150,main_current_account,2026-04-21,BILL-7139,Juniper Freight,-117.70,clerk_b,2026-04-21 12:52:44
+151,main_current_account,2026-04-21,INV-21226,Marlow Print,3800.83,clerk_b,2026-04-21 19:25:02
+152,main_current_account,2026-04-21,BILL-8357,Juniper Catering,-2207.82,clerk_a,2026-04-21 16:31:09
+153,main_current_account,2026-04-21,BILL-9650,Pellam Foods,-147.67,clerk_b,2026-04-21 16:13:22
+154,main_current_account,2026-04-22,INV-21749,Ivywood Print,1834.61,clerk_b,2026-04-22 10:40:36
+155,main_current_account,2026-04-22,INV-20498,Sedge Motors,159.33,clerk_b,2026-04-22 14:50:42
+156,main_current_account,2026-04-22,INV-20857,Kestrel Supplies,3125.24,clerk_c,2026-04-22 13:04:28
+157,main_current_account,2026-04-22,INV-20739,Thistle Print,2601.06,clerk_a,2026-04-22 10:38:00
+158,main_current_account,2026-04-22,BILL-8845,Nettle Labs,-2546.15,clerk_a,2026-04-22 09:14:31
+159,main_current_account,2026-04-22,BILL-7229,Marlow Packaging,-1976.28,clerk_c,2026-04-22 11:59:08
+160,main_current_account,2026-04-22,BILL-7770,Sedge Joinery,-77.87,clerk_a,2026-04-22 10:56:57
+161,main_current_account,2026-04-22,INV-20867,Juniper Print,900.39,clerk_a,2026-04-22 08:10:30
+162,main_current_account,2026-04-22,INV-21692,Marlow Print,900.39,clerk_b,2026-04-22 14:34:07
+163,main_current_account,2026-04-23,INV-21110,Thistle Catering,1776.00,clerk_a,2026-04-23 17:20:07
+164,main_current_account,2026-04-23,INV-21463,Juniper Print,1071.23,clerk_b,2026-04-23 13:46:21
+165,main_current_account,2026-04-23,INV-20900,Kestrel Supplies,641.63,clerk_b,2026-04-23 12:18:24
+166,main_current_account,2026-04-23,INV-21364,Corvid Supplies,1516.16,clerk_b,2026-04-23 14:15:21
+167,main_current_account,2026-04-23,INV-21214,Kestrel Supplies,2567.36,clerk_c,2026-04-23 08:39:35
+168,main_current_account,2026-04-23,INV-20656,Quarry Foods,120.50,clerk_a,2026-04-23 09:49:43
+169,main_current_account,2026-04-23,INV-20983,Harrow Supplies,866.69,clerk_a,2026-04-23 08:55:23
+170,main_current_account,2026-04-23,BILL-8410,Alder Labs,-1254.92,clerk_c,2026-04-23 10:21:37
+171,main_current_account,2026-04-23,CHQ 002328,Orchard Packaging,-1200.64,clerk_b,2026-04-23 07:56:47
+172,main_current_account,2026-04-24,INV-21854,Corvid Supplies,204.57,clerk_a,2026-04-24 14:49:30
+173,main_current_account,2026-04-24,INV-21228,Marlow Print,273.26,clerk_a,2026-04-24 14:47:00
+174,main_current_account,2026-04-24,INV-21756,Lowther Supplies,4289.58,clerk_b,2026-04-24 13:21:57
+175,main_current_account,2026-04-24,BILL-9722,Quarry Print,-146.09,clerk_a,2026-04-24 10:50:21
+176,main_current_account,2026-04-24,BILL-7214,Marlow Packaging,-881.74,clerk_a,2026-04-24 17:29:02
+177,main_current_account,2026-04-24,BILL-8852,Nettle Catering,-669.76,clerk_a,2026-04-24 15:05:29
+178,main_current_account,2026-04-27,INV-21141,Juniper Print,1232.45,clerk_a,2026-04-27 12:03:34
+179,main_current_account,2026-04-27,INV-21020,Corvid Supplies,173.47,clerk_c,2026-04-27 19:54:47
+180,main_current_account,2026-04-27,BILL-8781,Quarry Print,-424.28,clerk_c,2026-04-27 10:48:32
+181,main_current_account,2026-04-27,CHQ 002591,Sedge Joinery,-1531.37,clerk_a,2026-04-27 11:23:43
+182,main_current_account,2026-04-27,BILL-8539,Ivywood Motors,-309.49,clerk_b,2026-04-27 14:37:45
+183,main_current_account,2026-04-27,CHQ 002832,Briar Supplies,-1794.18,clerk_a,2026-04-27 17:44:43
+184,main_current_account,2026-04-27,BILL-8790,Nettle Labs,-466.52,clerk_b,2026-04-27 16:02:48
+185,main_current_account,2026-04-27,INV-20916,Quarry Foods,1408.02,clerk_a,2026-04-27 13:20:27
+186,main_current_account,2026-04-27,BILL-9367,Nettle Catering,-889.07,clerk_a,2026-04-27 10:06:59
+187,main_current_account,2026-04-27,CHQ 002351,Ivywood Motors,-2414.52,clerk_a,2026-04-27 17:16:35
+188,main_current_account,2026-04-28,INV-20477,Marlow Print,453.15,clerk_c,2026-04-28 12:09:01
+189,main_current_account,2026-04-28,INV-21425,Thistle Print,3163.94,clerk_b,2026-04-28 10:24:48
+190,main_current_account,2026-04-28,INV-21016,Harrow Supplies,264.84,clerk_b,2026-04-28 11:05:53
+191,main_current_account,2026-04-28,INV-20864,Alder Print,3432.52,clerk_c,2026-04-28 11:07:45
+192,main_current_account,2026-04-28,INV-21404,Marlow Print,2112.74,clerk_c,2026-04-28 17:10:36
+193,main_current_account,2026-04-28,INV-20966,Quarry Foods,4014.93,clerk_a,2026-04-28 11:17:44
+194,main_current_account,2026-04-28,BILL-7720,Kestrel Print,-2172.69,clerk_c,2026-04-28 11:48:59
+195,main_current_account,2026-04-28,BILL-8385,Nettle Catering,-594.35,clerk_b,2026-04-28 13:23:59
+196,main_current_account,2026-04-28,CHQ 002678,Quarry Print,-2049.52,clerk_a,2026-04-28 11:02:16
+197,main_current_account,2026-04-28,BILL-9884,Juniper Catering,-154.97,clerk_c,2026-04-28 13:11:54
+198,main_current_account,2026-04-28,CHQ 002849,Nettle Labs,-2519.80,clerk_b,2026-04-28 10:22:25
+199,main_current_account,2026-04-29,CHQ 002597,Nettle Catering,-1736.84,clerk_c,2026-04-29 10:32:13
+200,main_current_account,2026-04-29,BILL-9380,Briar Supplies,-1463.79,clerk_b,2026-04-29 10:56:58
+201,main_current_account,2026-04-29,BILL-7508,Marlow Packaging,-435.54,clerk_a,2026-04-29 15:15:57
+202,main_current_account,2026-04-29,BILL-8182,Nettle Labs,-1378.25,clerk_a,2026-04-29 10:41:46
+203,main_current_account,2026-04-29,BILL-8564,Nettle Catering,-94.16,clerk_a,2026-04-29 18:46:29
+204,main_current_account,2026-04-29,CHQ 002982,Nettle Catering,-47.03,clerk_b,2026-04-29 10:55:27
+205,main_current_account,2026-04-29,CHQ 002429,Pellam Foods,-263.82,clerk_c,2026-04-29 13:50:08
+206,main_current_account,2026-04-29,INV-21846,Lowther Textiles,1159.29,clerk_a,2026-04-29 12:16:49
+207,main_current_account,2026-04-30,BILL-8534,Orchard Packaging,-3141.70,clerk_b,2026-04-30 21:21:34
+208,main_current_account,2026-04-30,BILL-8675,Marlow Packaging,-300.42,clerk_b,2026-04-30 12:56:14
+209,main_current_account,2026-04-30,BILL-7535,Juniper Freight,-2433.68,clerk_a,2026-04-30 05:11:27
+210,main_current_account,2026-04-30,BILL-8073,Juniper Freight,-1074.10,clerk_a,2026-04-30 14:52:00
+211,main_current_account,2026-04-30,CHQ 002744,Orchard Packaging,-108.60,clerk_b,2026-04-30 12:47:08
+212,main_current_account,2026-04-30,INV-21511,Corvid Supplies,2433.49,clerk_a,2026-04-30 13:54:53

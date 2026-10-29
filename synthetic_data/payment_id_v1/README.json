@@ -1,0 +1,25 @@
+{
+  "seed": 20261028,
+  "scenarios": [
+    "exact_payment_id",
+    "instruction_reference",
+    "bank_reference_different",
+    "missing_payment_id",
+    "conflicting_reference",
+    "duplicate_bank_transaction",
+    "partial_payment",
+    "grouped_payment",
+    "net_of_fee",
+    "delayed_posting",
+    "ambiguous_candidate",
+    "unmatched_bank",
+    "unpaid_invoice",
+    "duplicate_submission",
+    "reference_conflicting_evidence",
+    "unrelated_payment_id"
+  ],
+  "reference_retention": "one controlled scenario each for payment and instruction references",
+  "amount_rules": "partial=50%; net fee=INR 5; conflicting reference=INR 100",
+  "posting_delay": "delayed scenario=12 additional days",
+  "warning": "Synthetic controls are not claims about bank behaviour."
+}

@@ -1,0 +1,65 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating system
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+temp/
+tmp/
+
+# Generated outputs and local application state
+outputs/
+reports/
+storage/
+
+# Locally trained models, checkpoints, tokenizers, and preprocessing artifacts
+models/
+*.safetensors
+model.safetensors
+pytorch_model.bin
+model_state.pt
+numeric_scaler.npz
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.npz
+
+
+# Virtual environments
+.venv/
+
+# Archives and serialized artifacts
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.h5
+*.pkl
+
+# Internal agent configuration
+.agents/
+.claude/
+
+# Backup application files
+app_backup_*.py
+
+# Saved preprocessing artifacts
+*.npz
+
+# Backup files
+*.bak
